@@ -11,27 +11,28 @@ Number of records: 7787
 Number of features: 12
 Features information: The dataset contains features like:
 
-show_id : Unique ID for every Movie / Tv Show
-type : A Movie or TV Show
-title : Title of the Movie / Tv Shows
-director : Director of the Movie
-cast : Actors involved in the movie / show
-country : Country where the movie / show was produced
-date_added : Date it was added on Netflix
-release_year : Actual Release year of the movie / show
-rating : TV Rating of the movie / show
-duration : Total Duration - in minutes or number of seasons
-listed_in : Generes
-description: The Summary description
+* show_id : Unique ID for every Movie / Tv Show
+* type : A Movie or TV Show
+* title : Title of the Movie / Tv Shows
+* director : Director of the Movie
+* cast : Actors involved in the movie / show
+* country : Country where the movie / show was produced
+* date_added : Date it was added on Netflix
+* release_year : Actual Release year of the movie / show
+* rating : TV Rating of the movie / show
+* duration : Total Duration - in minutes or number of seasons
+* listed_in : Generes
+* description: The Summary description
+
 Project Work flow
 
-Importing Libraries
-Loading the dataset
-Data Summary
-Data Cleaning & Data Analysis 5)Data Preprocessing 6)Feature Selection
-Applying different clustering methods
-Applying Clustering Models 9)Conclusion
-Future Work From this clustering analysis we can create Netflix movies and tv shows recommendation systems & also we can use topic modelling.
+1) Importing Libraries
+2) Loading the dataset
+3) Data Summary
+4) Data Cleaning & Data Analysis 5)Data Preprocessing 6)Feature Selection
+5) Applying different clustering methods
+6) Applying Clustering Models 9)Conclusion
+7) Future Work From this clustering analysis we can create Netflix movies and tv shows recommendation systems & also we can use topic modelling.
 
 Miscellaneous :
 
